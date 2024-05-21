@@ -3,5 +3,5 @@
   "password": "password",
   "host": "hostname",
   "port": "3306",
-  "db_name": "db_name"
+  "db_name": "database_name"
 }
